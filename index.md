@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+#Thank you for visiting!
 
-You can use the [editor on GitHub](https://github.com/lychur/lychur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is **Chuang Liu**.
+I am currently a Ph.D candidate in Harbin Institute of Technology (Shenzhen).
+You can contact with me via email: chuangliuhit@gmail.com
+And the address of my office is Room G704, Building G, HIT Campus of University Town of Shenzhen, Shenzhen, China  PC:518055
+#####I enjoy playing basketball! ~~and sleeping~~
+This is me:
+![ME](http://www.idunetwork.com/images/chuang.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+#Education Background
+2016 Sept. till now: Ph.D candidate in Computer Science, HITsz
+2014 Sept. -- 2016 July: Master in Computer Science, HITsz
+2010 Sept. -- 2014 July: Bachelor in Software Engineering, Jilin University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+#Research Interests
 
-# Header 1
-## Header 2
-### Header 3
+- Wireless Networks
+- Approximation Algorithms
+- Randomized Algorithms
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+#Publications
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lychur/lychur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **Chuang Liu**, Hongwei Du, Qiang Ye:
+Utilizing Communication Range to Shorten the Route of Sweep Coverage. ICC 2016: 1-6
+2. **Chuang Liu**, Hongwei Du, Qiang Ye:
+Sweep Coverage with Return Time Constraint. GLOBECOM 2016: 1-6
+1. Jiajia Rao, Hongwei Du, Xiaoting Yan, **Chuang Liu**:
+Detecting Overlapping Community in Social Networks Based on Fuzzy Membership Degree. CSoNet 2016: 99-110
+3. Hongwei Du, Rongrong Zhu, Xiaohua Jia, **Chuang Liu**:
+A Sensor Deployment Strategy in Bus-Based Hybrid Ad-Hoc Networks. COCOA 2015: 221-235
+4. Zeqi Song, Hongwei Du, Hejiao Huang, **Chuang Liu**:
+Indoor Localization via Candidate Fingerprints and Genetic Algorithm. COCOA 2015: 319-333
+5. Jie Cheng, Qiang Ye, Hongwei Du, **Chuang Liu**:
+DISCO: A Distributed Localization Scheme for Mobile Networks. ICDCS 2015: 527-536
+6. Lixin Wang, William Washington, Katrina Gilmore, **Chuang Liu**:
+Impact of Radio Irregularities on Connectivity of Wireless Networks with Log-Normal Shadowing. MSN 2015: 250-257
