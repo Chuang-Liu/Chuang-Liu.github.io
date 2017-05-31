@@ -1,23 +1,28 @@
-##Thank you for visiting!
+# Thank you for visiting!
 
 Hello! My name is **Chuang Liu**.
+
 I am currently a Ph.D candidate in Harbin Institute of Technology (Shenzhen).
+
 You can contact with me via email: chuangliuhit@gmail.com
+
 And the address of my office is Room G704, Building G, HIT Campus of University Town of Shenzhen, Shenzhen, China  PC:518055
+
 #####I enjoy playing basketball! ~~and sleeping~~
+
 This is me:
 ![ME](http://www.idunetwork.com/images/chuang.jpg)
 
 ---
 
-##Education Background
+# Education Background
 2016 Sept. till now: Ph.D candidate in Computer Science, HITsz
 2014 Sept. -- 2016 July: Master in Computer Science, HITsz
 2010 Sept. -- 2014 July: Bachelor in Software Engineering, Jilin University
 
 ---
 
-##Research Interests
+# Research Interests
 
 - Wireless Networks
 - Approximation Algorithms
@@ -25,7 +30,7 @@ This is me:
 
 ---
 
-##Publications
+# Publications
 
 1. **Chuang Liu**, Hongwei Du, Qiang Ye:
 Utilizing Communication Range to Shorten the Route of Sweep Coverage. ICC 2016: 1-6
