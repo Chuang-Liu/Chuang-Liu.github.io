@@ -1,0 +1,21 @@
+body {
+    position: relative;
+    width: 50%;
+    left: 25%;
+    background-color: #2b2b2b;
+    color: #a9b7c6;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #7ca8c6;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #8e9292;
+}
+
+a {
+    color: #9676ac;
+}
